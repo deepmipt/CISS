@@ -1,3 +1,4 @@
+<img src="ciss_1.jpg">
 # 1st Conversational Intelligence Summer School (1st CISS)
 July 2 to 8, 2018
 

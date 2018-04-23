@@ -22,7 +22,7 @@ The program of the CISS school will combine lectures, tutorials and invited talk
 
 ## Fee and travel grants
 
-Participation in free. Based on committee judging, a limited number of participant will be eligible for travel grants. We will provide сoffee breaks for all participants.
+Participation is free. Based on committee judging, a limited number of participant will be eligible for travel grants. We will provide сoffee breaks for all participants.
 
 We particularly encourage young researchers and students to apply. This is your chance to make your dream a reality and learn concrete skills that could have a considerable impact on the technology industry at large.
 
